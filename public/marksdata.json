@@ -1,0 +1,84 @@
+ [
+      {
+        "name": "Alif",
+        "marks": {
+          "math": 85,
+          "english": 89,
+          "science": 87
+        }
+      },
+      {
+        "name": "Bushra",
+        "marks": {
+          "math": 90,
+          "english": 95,
+          "science": 92
+        }
+      },
+      {
+        "name": "Chayon",
+        "marks": {
+          "math": 75,
+          "english": 80,
+          "science": 78
+        }
+      },
+      {
+        "name": "Deepa",
+        "marks": {
+          "math": 80,
+          "english": 85,
+          "science": 84
+        }
+      },
+      {
+        "name": "Imran",
+        "marks": {
+          "math": 65,
+          "english": 70,
+          "science": 69
+        }
+      },
+      {
+        "name": "Farhana",
+        "marks": {
+          "math": 93,
+          "english": 97,
+          "science": 95
+        }
+      },
+      {
+        "name": "Gautam",
+        "marks": {
+          "math": 78,
+          "english": 83,
+          "science": 81
+        }
+      },
+      {
+        "name": "Habib",
+        "marks": {
+          "math": 70,
+          "english": 78,
+          "science": 75
+        }
+      },
+      {
+        "name": "Jannat",
+        "marks": {
+          "math": 88,
+          "english": 90,
+          "science": 89
+        }
+      },
+      {
+        "name": "Kamrul",
+        "marks": {
+          "math": 68,
+          "english": 73,
+          "science": 72
+        }
+      }
+    ]
+
+  
