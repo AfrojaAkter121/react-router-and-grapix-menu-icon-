@@ -5,7 +5,6 @@ const Markschart = ({marksPromise}) => {
 
     const marksRes = use(marksPromise);
     const marksData = marksRes.data
-    console.log(marksData)
     
     const marksChartData = marksData.map(studentData => {
         const student = {
@@ -19,7 +18,7 @@ const Markschart = ({marksPromise}) => {
         return student
     })
 
-    console.log(marksChartData)
+
     return (
         <div className='mt-10'>
             <BarChart width={800} height={300} barGap={50} barSize={30} data={marksChartData}>
